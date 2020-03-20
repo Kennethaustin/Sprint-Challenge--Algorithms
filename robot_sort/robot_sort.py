@@ -99,8 +99,9 @@ class SortingRobot:
         # Fill this out
         #pick up item
         self.swap_item()
+        
         #if possible move right
-        if self.can_move_tight():
+        if self.can_move_right():
             self.move_right()
            #loops to sort list
             while True:
