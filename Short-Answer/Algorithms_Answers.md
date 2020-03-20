@@ -2,13 +2,13 @@
 
 ## Exercise I
 
-a)
+a) algorithm would be O(n). n * n * n in the while loop
 
 
-b)
+b) algorithm would be O(n log n)(base 2)
 
 
-c)
+c)algorithm would be O(n)
 
 ## Exercise II
 
